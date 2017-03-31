@@ -1,7 +1,6 @@
 *.dll
 *.pdb
 *.exe
-*.mp4
 test_images/*
 processed_images/*
 examples/*
